@@ -1,0 +1,14 @@
+name: Staff
+main: Main.Main
+author: Devo
+version: 1.0 BETA
+commands:
+   fly:
+   build:
+   gmc:
+   gms:
+   v:
+   vanish:
+   invsee:
+   sc:
+   staffchat:
